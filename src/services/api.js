@@ -2,7 +2,7 @@ import axios from "axios";
 
 const api = axios.create({
 
-    baseURL: "https://expence-tracker-backend-wqf6.onrender.com/api"
+    baseURL: "https://expense-tracker-backend-csmb.onrender.com/api"
 
 });
 
